@@ -1,4 +1,4 @@
-# Project Description: "Dark Mode Toggle Button Webpage"
+## Project Description: "Dark Mode/Light Mopde Webpage"
 
 This project is a single webpage that allows users to toggle between dark mode and light mode. The webpage was created using HTML, CSS, JavaScript, and jQuery.
 
